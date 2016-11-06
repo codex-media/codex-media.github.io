@@ -35,7 +35,7 @@ social:
 
  lsi: false
  safe: true
- source: [https://github.com/codex-media/codex-media.github.io]
+ source: [https://codex-media.github.io/offline-verifier/]
  incremental: false
  highlighter: rouge
  gist:
