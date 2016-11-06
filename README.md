@@ -1,2 +1,2 @@
-# codex-media.github.io
+# CODEX MEDIA PAGES
 Repository for static pages
