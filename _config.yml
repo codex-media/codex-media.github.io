@@ -1,6 +1,15 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
+lsi: false
+safe: true
+source: "https://github.com/codex-media/codex-media.github.io"
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
 
 url: http://yoursite.com
 title: Your Awesome Site
@@ -32,13 +41,3 @@ social:
     url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
     url: 
-
- lsi: false
- safe: true
- source: [https://codex-media.github.io/offline-verifier/]
- incremental: false
- highlighter: rouge
- gist:
-   noscript: false
- kramdown:
-   math_engine: mathjax
